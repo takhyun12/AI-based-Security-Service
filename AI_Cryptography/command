@@ -1,0 +1,1 @@
+python main.py --msg-len 32 --epochs 50
