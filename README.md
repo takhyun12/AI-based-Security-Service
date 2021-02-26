@@ -2,7 +2,7 @@
 #### 딥러닝 기반의 보안 서비스에 대한 연구 레포지토리
 
 ## 1) 인공신경망 기반의 암/복호화 알고리즘 연구 (Google AI 논문 구현)
-#### References : LEARNING TO PROTECT COMMUNICATIONS WITH ADVERSARIAL NEURAL CRYPTOGRAPHY
+#### References : LEARNING TO PROTECT COMMUNICATIONS WITH ADVERSARIAL NEURAL CRYPTOGRAPHY (Google Brain)
 
 ![1](https://user-images.githubusercontent.com/41291493/109268442-70316680-784e-11eb-8bdd-8a9a31418c5b.png)
 ![2](https://user-images.githubusercontent.com/41291493/109268446-7293c080-784e-11eb-964f-bbefe725f8c9.png)
