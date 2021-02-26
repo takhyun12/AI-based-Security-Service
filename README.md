@@ -16,9 +16,9 @@ Author: Tackhyun Jung
 Status: 완료
 
 ### 핵심목표
-1) Alice : 평문(p)을 대상으로 자체 생성한 암호화 키(k)를 통해 암호문(c)를 만들어 전송한다
-2) Bob : 암호문(c)을 암호화 키(k)를 통해 평문(p)를 유추한다
-3) Eve : 암호문(c)을 암호화 키(k) 없이 Brute force와 Random guessing을 통해 평문(p)를 유추한다
+1) `Alice` 평문(p)을 대상으로 자체 생성한 암호화 키(k)를 통해 암호문(c)를 만들어 전송한다
+2) `Bob` 암호문(c)을 암호화 키(k)를 통해 평문(p)를 유추한다
+3) `Eve` 암호문(c)을 암호화 키(k) 없이 Brute force와 Random guessing을 통해 평문(p)를 유추한다
 
 ---
 
@@ -48,8 +48,7 @@ $ Python Main.py
 
 ---
 
-## 2) CNN 대상 Adversarial Attack에 대한 방어 PoC
+## 2) `CNN` 대상 `Adversarial Attack`에 대한 방어 PoC
 
 (추후 작성 예정)
-
 
